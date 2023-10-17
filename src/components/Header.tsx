@@ -2,7 +2,7 @@ import React from "react";
 
 const Header = () => {
   return (
-    <div className="w-full flex items-center px-[7rem] py-2 bg-white">
+    <div className="w-[100vw] flex items-center px-[7rem] py-2 bg-white">
       <div>
         <p className=" text-[1.7rem] text-black">
           P<span className=" text-[#4CAF4F]">cl</span>

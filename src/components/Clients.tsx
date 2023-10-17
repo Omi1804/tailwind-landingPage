@@ -5,7 +5,7 @@ const Clients = () => {
     <div>
       <div className="text-center my-10 text-[#4D4D4D]">
         <h1 className=" text-4xl font-medium my-2">Our Clients</h1>
-        <p className=" text-sm font-light tracking-wider my-2">
+        <p className="text-sm font-light tracking-wider my-2">
           We have been working with some Fortune 500+ clients
         </p>
         <div className="flex mx-20 my-5 py-5 px-10 items-center justify-around">

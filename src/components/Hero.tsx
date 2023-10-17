@@ -34,9 +34,9 @@ const Hero = () => {
           />
         );
       }}
-      className="w-full"
+      className=""
     >
-      <div className="w-full h-full grid grid-cols-[.6fr,.4fr] py-[3rem] bg-[#F5F7FA] ">
+      <div className="h-full grid grid-cols-[.6fr,.4fr] py-[3rem] bg-[#F5F7FA] ">
         <div className="pl-[7rem] pr-[2rem] flex items-start justify-center flex-col flex-wrap">
           <p className=" text-7xl text-start text-[#4D4D4D] font-medium text tracking-wide">
             Lessons and Insights
@@ -55,7 +55,7 @@ const Hero = () => {
           <img src="/hero1.svg" className="object-contain" alt="" />
         </div>
       </div>
-      <div className="w-full h-full grid grid-cols-[.6fr,.4fr] py-[3rem] bg-[#F5F7FA] ">
+      <div className=" h-full grid grid-cols-[.6fr,.4fr] py-[3rem] bg-[#F5F7FA] ">
         <div className="pl-[7rem] pr-[2rem] flex items-start justify-center flex-col flex-wrap">
           <p className=" text-7xl text-start text-[#4D4D4D] font-medium text tracking-wide">
             Carefull and Detailed
@@ -74,7 +74,7 @@ const Hero = () => {
           <img src="/hero2.svg" className="object-contain" alt="" />
         </div>
       </div>
-      <div className="w-full h-full grid grid-cols-[.6fr,.4fr] py-[3rem] bg-[#F5F7FA] ">
+      <div className=" h-full grid grid-cols-[.6fr,.4fr] py-[3rem] bg-[#F5F7FA] ">
         <div className="pl-[7rem] pr-[2rem] flex items-start justify-center flex-col flex-wrap">
           <p className=" text-7xl text-start text-[#4D4D4D] font-medium text tracking-wide">
             Relaxed and Peaceful
