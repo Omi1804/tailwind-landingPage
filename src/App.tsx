@@ -5,6 +5,7 @@ import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Marketing from "./components/Marketing";
+import Product from "./components/Product";
 import Stats from "./components/Stats";
 
 const App = () => {
@@ -14,6 +15,7 @@ const App = () => {
       <Hero />
       <Clients />
       <Stats />
+      <Product />
       <Marketing />
       <Demo />
       <Footer />
