@@ -1,5 +1,3 @@
-import React from "react";
-
 const Marketing = () => {
   return (
     <div className="my-10 w-full text-center py-10">

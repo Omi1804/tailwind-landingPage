@@ -1,5 +1,3 @@
-import React from "react";
-
 const Product = () => {
   return (
     <div className="grid grid-cols-[30%,70%] my-10 p-5 bg-[#F5F7FA]">
