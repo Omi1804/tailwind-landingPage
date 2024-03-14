@@ -25,10 +25,49 @@ const Clients = () => {
         <p className=" text-sm font-light tracking-wider my-4">
           Who is Nextcent suitable for?
         </p>
-        <div className="grid grid-cols-3">
-          <div></div>
-          <div></div>
-          <div></div>
+        <div className="grid grid-cols-3 gap-20 justify-items-center mx-20 my-7">
+          <div className=" shadow-md p-4">
+            <img
+              src="/community1.svg"
+              className="mx-auto my-2 w-14 h-14"
+              alt=""
+            />
+            <h1 className=" text-2xl mx-4 font-semibold my-4 text-[#4D4D4D]">
+              Membership Organisations
+            </h1>
+            <p className=" text-s mx-2 text-[#00000088]">
+              Our membership management software provides full automation of
+              membership renewals and payments
+            </p>
+          </div>
+          <div className=" shadow-md p-4">
+            <img
+              src="/community2.svg"
+              className="mx-auto my-2 w-14 h-14"
+              alt=""
+            />
+            <h1 className=" text-2xl mx-4 font-semibold my-4 text-[#4D4D4D]">
+              National Associations
+            </h1>
+            <p className=" text-s mx-2 text-[#00000088]">
+              Our membership management software provides full automation of
+              membership renewals and payments
+            </p>
+          </div>
+          <div className=" shadow-md p-4">
+            <img
+              src="/community3.svg"
+              className="mx-auto my-2 w-14 h-14"
+              alt=""
+            />
+            <h1 className=" text-2xl mx-4 font-semibold my-4 text-[#4D4D4D]">
+              Clubs And Groups
+            </h1>
+            <p className=" text-s mx-2 text-[#00000088]">
+              Our membership management software provides full automation of
+              membership renewals and payments
+            </p>
+          </div>
         </div>
       </div>
     </div>
